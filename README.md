@@ -1,5 +1,3 @@
-# interview-Python
-
 # Data Structure
 ## Linear (one to one)
 - Array or ordered array
