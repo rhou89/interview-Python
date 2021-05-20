@@ -68,6 +68,12 @@
   - KMP
 - NP-complete problems
   - TSP or Knapsack problem
-  
+
+# Mind Map (Chinese)
+![](/map.jpg)
+
+
 ## Reference
 - [程序员必须掌握哪些算法？](https://www.zhihu.com/question/23148377)
+- [如何刷Leetcode 1](https://www.zhihu.com/question/32019460/answer/728407280)
+- [如何刷Leetcode 2](https://www.zhihu.com/question/36738189/answer/864005192)
